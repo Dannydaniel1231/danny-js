@@ -1,0 +1,30 @@
+body{   
+    background-color: #9b59b6;
+    font-family:"Open Sans",sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin-top:0;
+    border-radius: 10px;
+}
+.reg{
+background-color: aquamarine;
+ border-radius: 20px;
+    box-shadow: 0 2px 5px rgbo(0, 0, 0, 0.3); 
+    width: 250px;
+    height: 300px;
+    padding: 20px;
+}
+.button {
+    background-color: #8e44ad;
+    border: 2px solid #8e44ad;
+    border-radius: 4px;
+    color: #fff;
+    display: block;
+    font-family: inherit;
+    font-size: 16px;
+    padding: 10px;
+    width: 70%;
+}
+
